@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Julio Oliveira
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "Helping :humans:,
-                      control :machines:."
+                      "Helping humans
+                      control machines."
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -13,7 +13,7 @@ remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you ar
 author:
   name              : Júlio Oliveira
   image             : https://avatars0.githubusercontent.com/u/24236732?s=400&u=834316f2cb782da12de6bbbf0a8d2a13c9f7cc3b&v=4
-  behance           : jcalvesoliveira
+#  behance           : jcalvesoliveira
 # dribbble          : your_username
   email             : jcalvesoliveira@hotmail.com
 #  facebook          : your_username
