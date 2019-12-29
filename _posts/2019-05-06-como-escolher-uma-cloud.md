@@ -1,5 +1,5 @@
 ---
-title: Como escolher uma cloud?
+title: Como escolher uma cloud
 tags: [Cloud Computing, Technology]
 style: 
 color: 
