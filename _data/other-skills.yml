@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Data Science
+  percentage: 100
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Big Data
+  percentage: 70
   color: success
+
+- name: Data Viz
+  percentage: 70
+  color: dark

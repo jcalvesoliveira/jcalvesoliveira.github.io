@@ -1,17 +1,46 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Analytics & Innovation Specialist, Boa Vista SCPC, Brazil
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Research, coordination, and development of MLOps project.
+               Implementation and tech lead for open source technologies.
+               Hadoop and Spark for Machine Learning projects.
+
+- title: Professor, Live University, Brazil
+  from: 2018
+  to: present
+  description: MBA in Data Science.
+               MBA in Digital Transformation and IT Management.
+
+- title: Instructor, Alura, Brazil
+  from: 2017
+  to: 2018
+  description: Machine Learning and Python.
+
+- title: Big Data Analytics, MuchMore Digital, Brazil
+  from: 2017
+  to: 2018
+  description: Big Data Analytics and Digital Performance for an automotive company.
+               Data Lake project and development.
+               Anomaly detection project for digital operation.
+               Improvement in digital marketing performance.
+
+- title: Supply Chain Intern, Mullinix Packages, USA
+  from: 2015
+  to: 2015
+  description: Supply Chain, Warehouse and Receiving managers' auxiliary 
+               in cost reduction and process improvement projects.
+
+- title: Computer Technician, Projeta Midia Digital, Brazil
+  from: 2012
+  to: 2014
+  description: Development of Digital Signage projects, Totem/Kiosk, Led Panel.
+               Managing of maintenance team.
+               Also, Responsible for company sales, recruiting new customers and providing current customer support.
+               Conducted supplier research and coordinated services.
+
+- title: Computer Technician Intern, Laticínios Vida, Brazil
+  from: 2010
+  to: 2010
+  description: Monitored data, developed systems for collecting and reporting on Excel.
+               Manager’s Auxiliary on car and truck fleet control.
+               Managed supplies deliveries to producers.
