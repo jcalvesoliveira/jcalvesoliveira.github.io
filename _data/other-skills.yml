@@ -2,10 +2,14 @@
   percentage: 100
   color: info
 
-- name: Big Data
-  percentage: 70
+- name: Data Engineering
+  percentage: 95
   color: success
 
 - name: Data Viz
   percentage: 70
   color: dark
+
+- name: Backend development
+  percentage: 70
+  color: blue

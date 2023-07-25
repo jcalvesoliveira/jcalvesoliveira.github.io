@@ -1,7 +1,11 @@
 - name: Python
-  percentage: 90
+  percentage: 95
   color: danger
 
+- name: Node.js
+  percentage: 60
+  color: green
+
 - name: R
-  percentage: 50
+  percentage: 30
   color: blue

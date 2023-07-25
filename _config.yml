@@ -1,53 +1,49 @@
 ### Site Settings ###
-title               : Julio Oliveira
-description         : >-                               # >- means to ignore newlines until "url:"
-                      "Helping humans
-                      control machines."
+title: Julio Oliveira
+description: >- # >- means to ignore newlines until "url:"
+  "Stay hungry,
+  stay foolish."
 
-url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
-remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
-google_analytics    : UA-96915331-3
+url: "" # base hostname & protocol for your site (e.g. http://example.com)
+baseurl: "" # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+repository: YoussefRaafatNasry/portfolYOU # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+remote_theme: YoussefRaafatNasry/portfolYOU # uncomment this if you are using it as a remote theme
+google_analytics: UA-96915331-3
 
 ### Author Info ###
 author:
-  name              : Julio Oliveira
-  image             : https://raw.githubusercontent.com/jcalvesoliveira/julio-oliveira-page/master/static/Julio-73.png
-#  behance           : jcalvesoliveira
-# dribbble          : your_username
-  email             : jcalvesoliveira@hotmail.com
-#  facebook          : your_username
-  github            : jcalvesoliveira
-# gitlab            : your_username
-# instagram         : your_username
-  linkedin          : jcalvesoliveira
-  medium            : juliocesar.al.oliveira
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : jcalvesol
+  name: Julio Oliveira
+  image: https://raw.githubusercontent.com/jcalvesoliveira/julio-oliveira-page/master/static/Julio-73.png
+  #  behance           : jcalvesoliveira
+  # dribbble          : your_username
+  email: juliooliveira@hey.com
+  #  facebook          : your_username
+  github: jcalvesoliveira
+  # gitlab            : your_username
+  # instagram         : your_username
+  linkedin: jcalvesoliveira
+  medium: juliocesar.al.oliveira
+  # soundcloud        : your_username
+  # spotify           : your_username
+  # stackoverflow     : your_user_id
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  twitter: jcalvesol
 # vimeo             : your_username
 # youtube           : your_channel_name
-
 
 ### Pagination ###
 paginate: 6
 paginate_path: "/articles/page-:num/"
 
-
 ### Posts Permalink ###
 permalink: articles/:title
-
 
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
-
 
 ### Defaults for collections ###
 defaults:

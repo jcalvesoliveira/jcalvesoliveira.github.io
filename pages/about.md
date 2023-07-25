@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Always in-between technology and analytics. Big data analytics specialist and currently under the MicroMasters in artificial intelligence at Columbia University.  Professor since I was able to teach anything, now a lecturer in data science for Alura and Live University.
+Always in-between technology and analytics. I hold a master's degree in data analytics from Penn State University, a specialization in Artificial Intelligence from Columbia University, and big data analytics from FIA.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
